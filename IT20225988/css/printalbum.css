@@ -1,0 +1,144 @@
+.body{
+    background-image: url(images/rrr.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.style1{
+    color: rgb(0, 89, 255);
+    text-align: left;
+    font-size: 100%;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+* {
+    box-sizing: border-box;
+
+}
+input[type="submit"]:hover{
+ 
+    background: #aa1bbd;
+ 
+ }
+ .button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #0066ff;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+ .button:hover {
+     background-color: #cc0099}
+ 
+ .button:active {
+   background-color: #cc0099;
+   box-shadow: 0 5px #666;
+   transform: translateY(4px);
+ }
+ .p {
+         color: white;
+         text-indent: 30px;
+         font-size: 150%;
+         text-transform: uppercase;
+       }
+
+.column{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+
+}
+.row ::after {
+    contain:"";
+    display: table;
+    clear: both;
+
+}
+h1{
+    color:black;
+    font-size: 200%;
+    
+}
+
+
+h3{
+    color:white;
+}
+h5{
+    color:black;
+    font-size: 250%;
+    
+}
+p {
+  color: rgb(0, 0, 0);
+  text-indent: 30px;
+  font-size: 150%;
+  text-transform: uppercase;
+}
+
+
+
+
+
+  .field{
+    position: relative;
+    border-radius: 15px;
+    height: 30px;
+    width: 20%;
+    display:flex;
+    background: rgba(255,255,255,0.94);
+ }
+.field6{
+    position: relative;
+    height: 40px;
+    width: 40%;
+   
+    display:flex;
+    padding-left: 170px;
+   
+ }
+ 
+.field input{
+    height: 100%;
+    width: 100%;
+    background: transparent;;
+    border: none;
+    outline: none;
+    color: #222;
+    font-size: 16px;
+    font-family: 'Poppins',sans-serif;
+}
+input[type="submit"]{
+    
+    border:2px solid #aa1bbd; 
+   
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-weight: 900;
+    cursor: pointer;
+    width: 200px;
+    height: 50px;
+    font-family: 'Montserrat',sans-serif;
+
+
+}
+
+
+      
+
+ 
+
+
+ 
+
+
+  
