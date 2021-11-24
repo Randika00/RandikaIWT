@@ -1,3 +1,3 @@
 # RandikaIWT
 This is my IWT Project. 
-Event Photography Management System. It is based on HTML, CSS, PHP.
+Event Photography Management System. It is based on HTML, CSS, PHP and JavaScript. 
