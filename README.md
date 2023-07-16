@@ -2,7 +2,7 @@
 
 Event Photography Management System.
 Technology Stacks: HTML, CSS, PHP, XAMPP.
-Internet Web TEchnologies
+Internet Web Technologies,
 This is a web based management system
 developed for managing photography event
 day-to-day work. This application covers all
